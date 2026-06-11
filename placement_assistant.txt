@@ -1,0 +1,89 @@
+Q: What is Data Structures and Algorithms?
+A: Data Structures and Algorithms (DSA) are techniques used to organize, manage, and process data efficiently.
+
+Q: Why is DSA important for placements?
+A: DSA improves problem-solving skills and helps candidates write optimized code.
+
+Q: What is an array?
+A: An array is a collection of elements stored in contiguous memory locations.
+
+Q: What is a linked list?
+A: A linked list is a linear data structure where each element contains data and a reference to the next element.
+
+Q: What is a stack?
+A: A stack is a linear data structure that follows the Last In First Out (LIFO) principle.
+
+Q: What is a queue?
+A: A queue is a linear data structure that follows the First In First Out (FIFO) principle.
+
+Q: What is recursion?
+A: Recursion is a programming technique where a function calls itself.
+
+Q: What is time complexity?
+A: Time complexity measures the execution time of an algorithm.
+
+Q: What is Big O notation?
+A: Big O notation describes algorithm efficiency.
+
+Q: What is Object Oriented Programming?
+A: OOP is a programming paradigm based on classes and objects.
+
+Q: What are the four pillars of OOP?
+A: Encapsulation, Inheritance, Polymorphism, and Abstraction.
+
+Q: What is DBMS?
+A: Database Management System manages and organizes data.
+
+Q: What is SQL?
+A: SQL is used to communicate with relational databases.
+
+Q: What is a primary key?
+A: A primary key uniquely identifies a record in a table.
+
+Q: What is normalization?
+A: Normalization reduces data redundancy.
+
+Q: What is an operating system?
+A: An operating system manages hardware and software resources.
+
+Q: What is a process?
+A: A process is a program in execution.
+
+Q: What is a thread?
+A: A thread is the smallest unit of CPU execution.
+
+Q: What is networking?
+A: Networking connects devices to exchange information.
+
+Q: What is cloud computing?
+A: Cloud computing provides resources over the internet.
+
+Q: What is AWS?
+A: AWS is Amazon's cloud computing platform.
+
+Q: What is Git?
+A: Git is a version control system.
+
+Q: What is GitHub?
+A: GitHub hosts Git repositories online.
+
+Q: What is a resume?
+A: A resume summarizes education, skills, and projects.
+
+Q: What is an internship?
+A: An internship provides practical industry experience.
+
+Q: What is a technical interview?
+A: A technical interview evaluates coding and technical knowledge.
+
+Q: What is an HR interview?
+A: An HR interview evaluates personality and communication skills.
+
+Q: Why should we hire you?
+A: Because I have relevant skills, dedication, and willingness to learn.
+
+Q: What are your strengths?
+A: Problem-solving, teamwork, adaptability, and communication.
+
+Q: What is aptitude?
+A: Aptitude measures logical and analytical ability.
